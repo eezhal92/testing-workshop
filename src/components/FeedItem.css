@@ -1,0 +1,7 @@
+.FeedItem {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 10px 20px;
+  text-align: left;
+  margin-bottom: 10px;
+}
